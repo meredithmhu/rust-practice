@@ -1,5 +1,5 @@
 # rust-practice
-Learning rust for my Summer 2023 research project with CU Capra
+Learning [the rust programming language](https://www.rust-lang.org/) for my Summer 2023 research project with [CU Capra](https://capra.cs.cornell.edu/)
 In preparation for working with [easy-smt](https://docs.rs/easy-smt/latest/easy_smt/), a rust crate that provides APIs for buildimg SMT expressions and querying a solver for those expressions.
 
 ## Goals
